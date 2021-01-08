@@ -9,7 +9,8 @@ namespace Knowledge
         {
 
 
-            string learnerName = "Jayla Janae Corley";
+            string learnerName = "";
+            string governmentName = "Jayla Janae Corley";
             int learnerAge = 23;
             bool isJaylasBirthday = false;
      
@@ -19,8 +20,8 @@ namespace Knowledge
             //Console.ForegroundColor = ConsoleColor.ConsoleColor.Green;
 
             Console.WriteLine("welcome to Knowledge. i'm eden, what's your name?");
-            Console.ReadLine();
-            Console.WriteLine("nahhh, your name is " + learnerName + ".\nso what's good girl? talk to me");
+            learnerName = Console.ReadLine();
+            Console.WriteLine("ahh you're name is " + learnerName + ", i thought your name was " + governmentName + ".\nso what's good Jaylerrr? talk to me");
             Console.ReadLine();
             Console.WriteLine("i heard you have birfday coming up, is that true?");
             Console.ReadLine();
