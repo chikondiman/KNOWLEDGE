@@ -1,0 +1,12 @@
+/Users/chikondikamvazaana/CHIKONDIMAN/KNOWLEDGE/KNOWLEDGE/KNOWLEDGE/bin/Debug/netcoreapp3.1/KNOWLEDGE.deps.json
+/Users/chikondikamvazaana/CHIKONDIMAN/KNOWLEDGE/KNOWLEDGE/KNOWLEDGE/bin/Debug/netcoreapp3.1/KNOWLEDGE.runtimeconfig.json
+/Users/chikondikamvazaana/CHIKONDIMAN/KNOWLEDGE/KNOWLEDGE/KNOWLEDGE/bin/Debug/netcoreapp3.1/KNOWLEDGE.runtimeconfig.dev.json
+/Users/chikondikamvazaana/CHIKONDIMAN/KNOWLEDGE/KNOWLEDGE/KNOWLEDGE/bin/Debug/netcoreapp3.1/KNOWLEDGE.dll
+/Users/chikondikamvazaana/CHIKONDIMAN/KNOWLEDGE/KNOWLEDGE/KNOWLEDGE/bin/Debug/netcoreapp3.1/KNOWLEDGE.pdb
+/Users/chikondikamvazaana/CHIKONDIMAN/KNOWLEDGE/KNOWLEDGE/KNOWLEDGE/obj/Debug/netcoreapp3.1/KNOWLEDGE.csprojAssemblyReference.cache
+/Users/chikondikamvazaana/CHIKONDIMAN/KNOWLEDGE/KNOWLEDGE/KNOWLEDGE/obj/Debug/netcoreapp3.1/KNOWLEDGE.AssemblyInfoInputs.cache
+/Users/chikondikamvazaana/CHIKONDIMAN/KNOWLEDGE/KNOWLEDGE/KNOWLEDGE/obj/Debug/netcoreapp3.1/KNOWLEDGE.AssemblyInfo.cs
+/Users/chikondikamvazaana/CHIKONDIMAN/KNOWLEDGE/KNOWLEDGE/KNOWLEDGE/obj/Debug/netcoreapp3.1/KNOWLEDGE.csproj.CoreCompileInputs.cache
+/Users/chikondikamvazaana/CHIKONDIMAN/KNOWLEDGE/KNOWLEDGE/KNOWLEDGE/obj/Debug/netcoreapp3.1/KNOWLEDGE.dll
+/Users/chikondikamvazaana/CHIKONDIMAN/KNOWLEDGE/KNOWLEDGE/KNOWLEDGE/obj/Debug/netcoreapp3.1/KNOWLEDGE.pdb
+/Users/chikondikamvazaana/CHIKONDIMAN/KNOWLEDGE/KNOWLEDGE/KNOWLEDGE/obj/Debug/netcoreapp3.1/KNOWLEDGE.genruntimeconfig.cache

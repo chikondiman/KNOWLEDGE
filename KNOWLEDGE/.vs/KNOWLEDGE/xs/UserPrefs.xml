@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{483F5B3E-B1CD-4BE9-88DD-DC38901AB14A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../knowledge.cs">
+    <Files>
+      <File FileName="../knowledge.cs" Line="27" Column="1" />
+      <File FileName="KNOWLEDGE/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KNOWLEDGE" expanded="True">
+            <Node name="KNOWLEDGE" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.KNOWLEDGE FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
